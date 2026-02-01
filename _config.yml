@@ -1,10 +1,10 @@
 # Site settings
 title: 蓝色硫酸铜
-SEOTitle: 蓝色天空的博客 | 蓝色硫酸铜
+SEOTitle: 蓝色硫酸铜
 header-img: img/post-bg-desk.jpg
 email: 8209180@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 蓝色天空的博客, lansetiankong, 蓝色天空, iOS, Apple, iPhone"
+keyword: "蓝色硫酸铜, iOS, Apple, iPhone"
 url: "https://8209180.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/8209180/8209180.github.io.git" # you code repository
